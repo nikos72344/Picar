@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg2900"
+   inkscape:export-filename="/home/mikita/Изображения/PicarSmallLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="PicarSmallLogo.svg">
+  <defs
+     id="defs2894">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3767">
+      <stop
+         style="stop-color:#00e3ff;stop-opacity:1"
+         offset="0"
+         id="stop3763" />
+      <stop
+         style="stop-color:#bd89e7;stop-opacity:1"
+         offset="1"
+         id="stop3765" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3767"
+       id="linearGradient3769"
+       x1="10.672325"
+       y1="9.1882944"
+       x2="58.268997"
+       y2="56.863281"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.847125"
+     inkscape:cx="41.018711"
+     inkscape:cy="144.2449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg2900"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2897">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Фон"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <circle
+       style="opacity:1;fill:url(#linearGradient3769);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3701"
+       cx="33.866669"
+       cy="33.866665"
+       r="33.866665" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Окружность"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <ellipse
+       style="opacity:0.900434;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.43958;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3773"
+       cx="33.866665"
+       cy="33.866665"
+       rx="27.952978"
+       ry="27.952976" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.121489"
+       y="30.30825"
+       id="text866"><tspan
+         sodipodi:role="line"
+         id="tspan864"
+         x="26.121489"
+         y="30.30825"
+         style="stroke-width:0.264583" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Надпись" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.7489px;line-height:1.25;font-family:'Arciform Sans';-inkscape-font-specification:'Arciform Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51874"
+     x="21.972876"
+     y="53.687725"
+     id="text871"
+     transform="scale(0.94271871,1.0607618)"><tspan
+       sodipodi:role="line"
+       id="tspan869"
+       x="21.972876"
+       y="53.687725"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arciform Sans';-inkscape-font-specification:'Arciform Sans';opacity:0.9;fill:#ffffff;stroke-width:1.51874">P</tspan></text>
+</svg>
